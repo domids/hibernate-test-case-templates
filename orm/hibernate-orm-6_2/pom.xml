@@ -3,9 +3,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.hibernate.testcasetemplate</groupId>
-	<artifactId>test-case-template-hibernate-orm-6</artifactId>
+	<artifactId>test-case-template-hibernate-orm-6_2</artifactId>
 	<version>1.0.0.Final</version>
-	<name>Hibernate ORM 6 Test Case Template</name>
+	<name>Hibernate ORM 6.2 Test Case Template</name>
 
 	<properties>
 		<version.com.h2database>2.3.232</version.com.h2database>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.hibernate.orm</groupId>
 			<artifactId>hibernate-core</artifactId>
-<!--			<version>6.2.34.Final</version>-->
+			<version>6.2.36.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>

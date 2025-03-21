@@ -11,6 +11,7 @@
   <modules>
     <module>orm/hibernate-orm-5</module>
     <module>orm/hibernate-orm-6</module>
+    <module>orm/hibernate-orm-6_2</module>
     <module>envers/envers-5</module>
     <module>envers/envers-6</module>
     <module>search/hibernate-search-5/elasticsearch-5</module>
